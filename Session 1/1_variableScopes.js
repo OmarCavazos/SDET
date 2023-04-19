@@ -1,26 +1,22 @@
 // Scopes Example
 function scopes() {
+  if (true) {
+    const obj1 = {
+      name1: "Yotoko",
+      lastname1: "Turaja",
+    };
 
-    if (true) {const obj1 = {
-        name1: 'Yotoko',
-        lastname1: 'Turaja'
-    } 
-        
-        let obj2 =  {
-            name2: 'Memo',
-            lastname2: 'Hérdez'
-        } 
-        
-        if(true) {
-            
-        }
+    let obj2 = {
+      name2: "Memo",
+      lastname2: "Hérdez",
+    };
 
-
-        console.log(obj1)
+    if (true) {
     }
 
-
+    console.log(obj1);
+  }
 }
 scopes();
 
-console.log(d)
+console.log(d);

@@ -1,4 +1,5 @@
 Tomando en cuenta este arreglo:
+
 ```
 const books = [
     {
@@ -21,6 +22,7 @@ const books = [
     }
 ]
 ```
+
 Generar los siguientes métodos:
 
 - **getBook** - Recibe un índice, y regresa el título del libro correspondiente

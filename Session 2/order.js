@@ -1,7 +1,7 @@
-const myVar = "myVar!"
+const myVar = "myVar!";
 
 function myFunction() {
-    console.log(myVar)
+  console.log(myVar);
 }
 
-myFunction()
+myFunction();
