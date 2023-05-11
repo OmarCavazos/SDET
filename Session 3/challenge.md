@@ -19,7 +19,7 @@ const books = [
         autor: "Undios",
         fecha: 2020,
         enStock: false
-    }
+    },
 ]
 ```
 
@@ -27,4 +27,4 @@ Generar los siguientes métodos:
 
 - **getBook** - Recibe un índice, y regresa el título del libro correspondiente
 - **addBook** - Recibe un objeto con titulo, nombre, autor, fecha, y existencia en stock, y lo agrega al arreglo.
-- **deleteBook** - Recibe un índice y borra dicho libro del arreglo.
+- **deleteBook** - No recibe parametros, y borra el ultimo libro de la lista
