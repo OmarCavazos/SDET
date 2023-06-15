@@ -73,7 +73,7 @@ if (!y) {
 }
 
 const myNum = 42;
-
+/*
 if (myNum > 10 && myNum < 40) {
   console.log("A");
 } else if (myNum / 2 == 22) {
@@ -81,3 +81,4 @@ if (myNum > 10 && myNum < 40) {
 } else if (!(myNum < 0) && myNum > 0) {
   console.log("C");
 }
+*/
