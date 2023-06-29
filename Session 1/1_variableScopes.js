@@ -20,3 +20,5 @@ function scopes() {
 scopes();
 
 console.log(d);
+
+console.log(d);
