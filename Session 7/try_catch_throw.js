@@ -22,7 +22,7 @@ function process() {
   } catch (e) {
     console.log("Error: " + e);
   } finally {
-    producesAnError();
+    
   }
 }
 
